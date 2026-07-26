@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+}
+
+header {
+  background: #e50914;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #000, #444);
+}
+
+.hero h2 {
+  font-size: 40px;
+}
+
+button {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 5px;
+}
+
+.movies {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.movie {
+  background: #333;
+  padding: 40px;
+  border-radius: body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+}
+
+header {
+  background: #e50914;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #000, #444);
+}
+
+.hero h2 {
+  font-size: 40px;
+}
+
+button {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 5px;
+}
+
+.movies {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.movie {
+  background: #333;
+  padding: 40px;
+  border-radius: 10body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+}
+
+header {
+  background: #e50914;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #000, #444);
+}
+
+.hero h2 {
+  font-size: 40px;
+}
+
+button {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 5px;
+}
+
+.movies {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.movie {
+  background: #333;
+  padding: 40px;
+  border-radius: 10px;
+}
